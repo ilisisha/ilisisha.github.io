@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9d0a4587.css",
-    "main.js": "/static/js/main.e8a4f099.js",
+    "main.js": "/static/js/main.2f0930f6.js",
     "static/js/787.95a2fae0.chunk.js": "/static/js/787.95a2fae0.chunk.js",
     "static/media/auth-bottles.png": "/static/media/auth-bottles.98866679ed4d23ff7f69.png",
     "service-worker.js": "/service-worker.js",
@@ -12,11 +12,11 @@
     "static/media/qr-reader.svg": "/static/media/qr-reader.e61245a3502de93f977e0f05cfadd70d.svg",
     "static/media/search.svg": "/static/media/search.4ff0c311e767044735287fc7ccd72083.svg",
     "main.9d0a4587.css.map": "/static/css/main.9d0a4587.css.map",
-    "main.e8a4f099.js.map": "/static/js/main.e8a4f099.js.map",
+    "main.2f0930f6.js.map": "/static/js/main.2f0930f6.js.map",
     "787.95a2fae0.chunk.js.map": "/static/js/787.95a2fae0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d0a4587.css",
-    "static/js/main.e8a4f099.js"
+    "static/js/main.2f0930f6.js"
   ]
 }
