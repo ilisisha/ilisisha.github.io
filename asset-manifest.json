@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3e3861a.css",
-    "main.js": "/static/js/main.0fc7caf9.js",
-    "static/js/787.95a2fae0.chunk.js": "/static/js/787.95a2fae0.chunk.js",
+    "main.css": "/static/css/main.c95c868f.css",
+    "main.js": "/static/js/main.f073fc9d.js",
+    "static/js/27.175bc107.chunk.js": "/static/js/27.175bc107.chunk.js",
     "static/media/auth-bottles.png": "/static/media/auth-bottles.98866679ed4d23ff7f69.png",
     "service-worker.js": "/service-worker.js",
-    "static/media/logo.svg": "/static/media/logo.7c7b3ecfcbd0c2cf668da3b8a256fa54.svg",
-    "static/media/eye-off.svg": "/static/media/eye-off.2847e5accfe31eadc902.svg",
+    "static/media/logo.svg": "/static/media/logo.8948e50c948c174f5c4b934cf62ea418.svg",
+    "static/media/eye-off.svg": "/static/media/eye-off.c0e7cc3b3fcce0b4c2d4.svg",
+    "static/media/torch.svg": "/static/media/torch.d3bec5f7789a3f733cad.svg",
     "index.html": "/index.html",
-    "static/media/account.svg": "/static/media/account.aa02a2158431fd8f49a101242152a21b.svg",
-    "static/media/qr-reader.svg": "/static/media/qr-reader.e61245a3502de93f977e0f05cfadd70d.svg",
-    "static/media/arrow-left.svg": "/static/media/arrow-left.95c4afc35ac7c47f93bb6e5143c0f897.svg",
-    "static/media/search.svg": "/static/media/search.4ff0c311e767044735287fc7ccd72083.svg",
-    "static/media/close.svg": "/static/media/close.04b51f89ac84242363a67532db7f95c1.svg",
-    "main.b3e3861a.css.map": "/static/css/main.b3e3861a.css.map",
-    "main.0fc7caf9.js.map": "/static/js/main.0fc7caf9.js.map",
-    "787.95a2fae0.chunk.js.map": "/static/js/787.95a2fae0.chunk.js.map"
+    "static/media/map-pin.svg": "/static/media/map-pin.3147829ab814e5557e4c.svg",
+    "static/media/account.svg": "/static/media/account.dc86c73ff08290b4e82e49bc51fc6b24.svg",
+    "static/media/qr-reader.svg": "/static/media/qr-reader.9cfdf34fbee0583447c354c37e6394c7.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.4586e2b7e770710a3dd4928a714b89ae.svg",
+    "static/media/search.svg": "/static/media/search.4fc4fd991fe87d8eb6eac94240b8565f.svg",
+    "static/media/close.svg": "/static/media/close.4d047974e77694069ab3ca4377c40883.svg"
   },
   "entrypoints": [
-    "static/css/main.b3e3861a.css",
-    "static/js/main.0fc7caf9.js"
+    "static/css/main.c95c868f.css",
+    "static/js/main.f073fc9d.js"
   ]
 }
